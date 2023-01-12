@@ -1,0 +1,10 @@
+This lab was about setting up two things: a server and a client.
+ The server is to host a html page and resolve get requests for json data about people's coordinates in the US.
+ The client takes the json data and displays it on a map and a table, as well as sends requests to the server to filter the table.
+
+ I learned from this lab how to create JSON objects and send them from a server to a client to satisfy fetch requests.
+ I also learned that sorting a table in Javascript seems incredibly complicated for no reason.
+
+ My suggestion for this lab is that it's too long. Way too many things with far to many details to juggle.
+ I expect other students feel this as well, but with 3 other classes and an internship I kept thinking it would've
+ been better to just leave this lab half finished in order to get everything else done.
